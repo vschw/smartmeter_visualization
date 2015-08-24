@@ -1,0 +1,8 @@
+[ssh_login]
+ip =  <server ip>
+username = <your username>
+key_path = <path to private key>
+data_folder = <folder name to save temp data>
+
+[db_login]
+db_name = <database name>
