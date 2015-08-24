@@ -7,6 +7,14 @@ Data (csv) download and visualization tool for smartmeter
 python smvi.py -n=999
 ```
 
+![figure_1](https://cloud.githubusercontent.com/assets/11513117/9438141/54e11578-49f7-11e5-8088-841c35dfce3c.png)
+
+```shell
+python smvi.py -n=999 -s=2015-08-19 -e=2015-08-20 -x=13:20:00 -y=14:20:00 -c=1 -a=false
+```
+
+![figure_2](https://cloud.githubusercontent.com/assets/11513117/9438282/5abb163c-49f8-11e5-88d0-81f53b736e66.png)
+
 
 ## Dependencies
 
